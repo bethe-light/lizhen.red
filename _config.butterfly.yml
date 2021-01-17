@@ -80,15 +80,15 @@ katex:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: /img/favicon.png
+favicon: /img/lz_favicon.ico
 
 # Avatar (頭像)
 avatar:
-  img:
+  img: /img/avater.jpeg
   effect: false
 
 # The banner image of home page
-index_img:
+index_img: /img/bg.jpg
 
 # If the banner of page not setting, it will show the top_img
 default_top_img:
@@ -615,7 +615,7 @@ subtitle:
   # 如果有英文雙引號' " ',請使用轉義字元 &quot;
   # 開頭不允許轉義字元，如需要，請把整個句子用雙引號包住
   # 如果關閉打字效果，subtitle只會顯示sub的第一行文字
-  sub: [今日事 今日毕, 死亡并不是生命的尽头 遗忘才是, 凡打不倒我的 必使我更加强大]
+  sub: [今日事 今日毕, 死亡并不是生命的尽头 遗忘才是, 凡打不倒我的 必使我更强大]
 
 # Loading Animation (加載動畫)
 preloader: true
